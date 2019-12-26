@@ -11,8 +11,8 @@ echo "exported"
 
 #update password
 passwd << EOF
-123456789
-123456789
+1
+1
 EOF
 echo "password updated"
 
