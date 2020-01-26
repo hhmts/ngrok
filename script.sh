@@ -28,7 +28,7 @@ wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
 unzip ngrok-stable-linux-amd64.zip
 
 # hhmtrinhs
-./ngrok authtoken 1QLwws2PclwortZn4TQ46kFdjPm_3ttdFF2cyqd6wJkxyNC94
+# ./ngrok authtoken 1QLwws2PclwortZn4TQ46kFdjPm_3ttdFF2cyqd6wJkxyNC94
 
 # sophiaawh
 #  ./ngrok authtoken 1S2XcTJUPYRYF1OvAkgXnJXfgo4_87JtRBcHB3fLkHy2BjRxr
@@ -58,7 +58,7 @@ unzip ngrok-stable-linux-amd64.zip
 # ./ngrok authtoken 1WQO42ZAmtthBMMHzpePJb8aPaK_3Rw5RnoFFhVt4pLtCTnjT
 
 # mybelovedpaper5
-# ./ngrok authtoken 1WQcww4h3cHwkLCEjkwMwgyjsBf_4GF4SAsaHv8K2jQDK569U
+./ngrok authtoken 1WQcww4h3cHwkLCEjkwMwgyjsBf_4GF4SAsaHv8K2jQDK569U
 
 # mybelovedpaper6
 # ./ngrok authtoken 1WQk43IkFYKYBIebj7XzkFB8nwW_2mQvzR2mDpCsNYyvYcALL
