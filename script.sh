@@ -61,7 +61,7 @@ unzip ngrok-stable-linux-amd64.zip
 # ./ngrok authtoken 1WQcww4h3cHwkLCEjkwMwgyjsBf_4GF4SAsaHv8K2jQDK569U
 
 # mybelovedpaper6
-./ngrok authtoken 1WQk43IkFYKYBIebj7XzkFB8nwW_2mQvzR2mDpCsNYyvYcALL
+# ./ngrok authtoken 1WQk43IkFYKYBIebj7XzkFB8nwW_2mQvzR2mDpCsNYyvYcALL
 
 # mybelovedpaper7
 #  ./ngrok authtoken 1WvGWgTjoU1RGGQbMqCt0BCkGsi_6bMgNU9gzqdRkXJHM99JX
